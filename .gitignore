@@ -1,1 +1,5 @@
 # empty file
+
+# Ignore vscode
+.vscode
+
