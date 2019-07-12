@@ -3,3 +3,6 @@
 # Ignore vscode
 .vscode
 
+# Ignore
+.venv/
+.env/
